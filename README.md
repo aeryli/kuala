@@ -11,3 +11,5 @@ https://bitbucket.org/ixtab/kindlelauncher
 https://www.mobileread.com/forums/showthread.php?t=203326
 
 https://github.com/coplate/KUAL_Booklet
+
+Credit goes to Niels Lohmann for his JSON library for C++, https://github.com/nlohmann/json
