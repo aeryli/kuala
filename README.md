@@ -1,5 +1,7 @@
 KUALA - Kindle Unified Application Launcher After (Java)
 
+This repo contains a patched version of KUALA v1.1, so it has an icon.
+
 A full C++ rewrite of KUAL (Kindle Unified Application Launcher). It uses the Kindle's native GTK for the UI.
 
 The original Java based KUAL stopped working on system versions starting at 5.19.4. This rewrite is made for system versions 5.19.x and later, but it will also work on many earlier versions as long as they are armhf.
